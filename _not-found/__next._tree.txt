@@ -1,4 +1,4 @@
-:HL["/kleidio-vorschau/_next/static/chunks/1m4zuib07pkfl.css","style"]
+:HL["/kleidio-vorschau/_next/static/chunks/1jmjrecomnmnt.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"cwiDj9LinRv3Q7qk5eZ8K","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"aaW0SlShFG1YmtT0EOYUB","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

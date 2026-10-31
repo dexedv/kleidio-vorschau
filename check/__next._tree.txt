@@ -1,5 +1,5 @@
-:HL["/kleidio-vorschau/_next/static/chunks/1m4zuib07pkfl.css","style"]
+:HL["/kleidio-vorschau/_next/static/chunks/1jmjrecomnmnt.css","style"]
 :HL["/kleidio-vorschau/_next/static/media/db545dba463279ae-s.p.1cp9-4nby68jc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"check","h":96,"c":"$Q2"}]]
-0:{"b":"cwiDj9LinRv3Q7qk5eZ8K","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"aaW0SlShFG1YmtT0EOYUB","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
